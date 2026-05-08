@@ -5,3 +5,6 @@
 
 
 #include "HW2.typ"
+#include "HW3.typ"
+#include "HW4.typ"
+#include "HW5.typ"
