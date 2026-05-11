@@ -19,6 +19,7 @@
   #text(size: 16pt)[——Fingerprint——]
 ]
 = 题目
+
 *描述*
 
 本题将会给你三个 $n times n$ 的矩阵 $A,B,C$，你需要判断 $A B$ 是否等于 $C$.
@@ -28,7 +29,7 @@
 ```cpp
 int randint(const unsigned int &seed) {
     static unsigned int x = seed;
-    x = (x \* 23333LL + 23327) % 1000000007;
+    x = (x * 23333LL + 23327) % 1000000007;
     return x % 20 - 10;
 }```
 ]
