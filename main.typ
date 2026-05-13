@@ -12,3 +12,5 @@
 #include "HW7.typ"
 #include "HW8.typ"
 #include "HW9.typ"
+#include "HW10.typ"
+#include "HW11.typ"
